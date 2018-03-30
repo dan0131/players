@@ -4,13 +4,23 @@
       "fullname": "Kumara Sangakkara",
       "role": "Wicketkeeper Batsman",
       "imageURL":"http://cricapi.com/playerpic/50710.jpg",
-      "playerID":"50710"
+      "playerID":"50710",
+      "isBowler":false,
+      "isBatsman":true,
+      "isKeeper":true,
+      "isCaptain":false,
+      "isViceCaptain":true
     },
     {
       "fullname": "Mahela Jayawardana",
       "role": "Opening batsman",
       "imageURL":"http://cricapi.com/playerpic/49289.jpg",
-      "playerID":"49289"
+      "playerID":"49289",
+      "isBowler":false,
+      "isBatsman":true,
+      "isKeeper":true,
+      "isCaptain":false,
+      "isViceCaptain":true
     }
   ]
 }
