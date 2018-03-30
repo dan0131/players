@@ -109,6 +109,40 @@
       "isKeeper":false,
       "isCaptain":false,
       "isViceCaptain":false
+    },
+    {
+      "fullname": "Upul Tharanga",
+      "role": "Batsman",
+      "imageURL":"http://cricapi.com/playerpic/50747.jpg",
+      "playerID":"50747",
+      "isBowler":false,
+      "isBatsman":true,
+      "isKeeper":false,
+      "isCaptain":false,
+      "isViceCaptain":false
+    },
+    {
+      "fullname": "Tillakaratne Dilshan",
+      "role": "Allrounder",
+      "imageURL":"http://cricapi.com/playerpic/48472.jpg",
+      "playerID":"48472",
+      "isBowler":true,
+      "isBatsman":true,
+      "isKeeper":true,
+      "isCaptain":false,
+      "isViceCaptain":false
+    },
+    {
+      "fullname": "Dinesh Chandimal",
+      "role": "Wicketkeeper batsman",
+      "imageURL":"http://cricapi.com/playerpic/300628.jpg",
+      "playerID":"300628",
+      "isBowler":false,
+      "isBatsman":true,
+      "isKeeper":true,
+      "isCaptain":false,
+      "isViceCaptain":false
     }
+    
   ]
 }
