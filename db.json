@@ -87,6 +87,28 @@
       "isKeeper":false,
       "isCaptain":false,
       "isViceCaptain":false
+    },
+    {
+      "fullname": "Sanath Jayasuriya",
+      "role": "Allrounder",
+      "imageURL":"http://cricapi.com/playerpic/49209.jpg",
+      "playerID":"49209",
+      "isBowler":true,
+      "isBatsman":true,
+      "isKeeper":false,
+      "isCaptain":false,
+      "isViceCaptain":false
+    },
+    {
+      "fullname": "Marvan Atapattu",
+      "role": "Batsman",
+      "imageURL":"http://cricapi.com/playerpic/48124.jpg",
+      "playerID":"48124",
+      "isBowler":false,
+      "isBatsman":true,
+      "isKeeper":false,
+      "isCaptain":false,
+      "isViceCaptain":false
     }
   ]
 }
