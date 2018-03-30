@@ -18,9 +18,20 @@
       "playerID":"49289",
       "isBowler":false,
       "isBatsman":true,
-      "isKeeper":true,
+      "isKeeper":false,
+      "isCaptain":true,
+      "isViceCaptain":false
+    },
+    {
+      "fullname": "Angelo Mathews",
+      "role": "All rounder",
+      "imageURL":"http://cricapi.com/playerpic/49764.jpg",
+      "playerID":"49764",
+      "isBowler":true,
+      "isBatsman":true,
+      "isKeeper":false,
       "isCaptain":false,
-      "isViceCaptain":true
+      "isViceCaptain":false
     }
   ]
 }
