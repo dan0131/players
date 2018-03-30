@@ -1,11 +1,16 @@
 {
-  "posts": [
+  "data": [
     {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+      "fullname": "Kumara Sangakkara",
+      "role": "Wicketkeeper Batsman",
+      "imageURL":"http://cricapi.com/playerpic/50710.jpg",
+      "playerID":"50710"
+    },
+    {
+      "fullname": "Mahela Jayawardana",
+      "role": "Opening batsman",
+      "imageURL":"http://cricapi.com/playerpic/49289.jpg",
+      "playerID":"49289"
+    },
+  
 }
