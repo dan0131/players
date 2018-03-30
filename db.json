@@ -142,6 +142,17 @@
       "isKeeper":true,
       "isCaptain":false,
       "isViceCaptain":false
+    },
+    {
+      "fullname": "Nuwan Kulasekara",
+      "role": "Bowler",
+      "imageURL":"http://cricapi.com/playerpic/49535.jpg",
+      "playerID":"49535",
+      "isBowler":true,
+      "isBatsman":false,
+      "isKeeper":false,
+      "isCaptain":false,
+      "isViceCaptain":false
     }
     
   ]
