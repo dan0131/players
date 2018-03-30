@@ -54,6 +54,39 @@
       "isKeeper":true,
       "isCaptain":false,
       "isViceCaptain":false
+    },
+    {
+      "fullname": "Lasith Malinga",
+      "role": "Bowler",
+      "imageURL":"http://cricapi.com/playerpic/49758.jpg",
+      "playerID":"49758",
+      "isBowler":true,
+      "isBatsman":false,
+      "isKeeper":false,
+      "isCaptain":false,
+      "isViceCaptain":false
+    },
+    {
+      "fullname": "Muttiah Muralitharan",
+      "role": "Bowler",
+      "imageURL":"http://cricapi.com/playerpic/49636.jpg",
+      "playerID":"49636",
+      "isBowler":true,
+      "isBatsman":false,
+      "isKeeper":false,
+      "isCaptain":false,
+      "isViceCaptain":false
+    },
+    {
+      "fullname": "Chaminda Vaas",
+      "role": "Bowler",
+      "imageURL":"http://cricapi.com/playerpic/50804.jpg",
+      "playerID":"50804",
+      "isBowler":true,
+      "isBatsman":false,
+      "isKeeper":false,
+      "isCaptain":false,
+      "isViceCaptain":false
     }
   ]
 }
