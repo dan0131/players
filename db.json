@@ -23,6 +23,17 @@
       "isViceCaptain":false
     },
     {
+      "fullname": "Kusal Perera",
+      "role": "Wicketkeeper Batsman",
+      "imageURL":"http://cricapi.com/playerpic/300631.jpg",
+      "playerID":"300631",
+      "isBowler":false,
+      "isBatsman":true,
+      "isKeeper":true,
+      "isCaptain":false,
+      "isViceCaptain":false
+    },
+    {
       "fullname": "Angelo Mathews",
       "role": "All rounder",
       "imageURL":"http://cricapi.com/playerpic/49764.jpg",
@@ -30,6 +41,17 @@
       "isBowler":true,
       "isBatsman":true,
       "isKeeper":false,
+      "isCaptain":false,
+      "isViceCaptain":false
+    },
+    {
+      "fullname": "Kusal Mendis",
+      "role": "Wicketkeeper batsman",
+      "imageURL":"http://cricapi.com/playerpic/629074.jpg",
+      "playerID":"629074",
+      "isBowler":false,
+      "isBatsman":true,
+      "isKeeper":true,
       "isCaptain":false,
       "isViceCaptain":false
     }
