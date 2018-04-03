@@ -120,39 +120,6 @@
       "isKeeper":false,
       "isCaptain":false,
       "isViceCaptain":false
-    },
-    {
-      "fullname": "Tillakaratne Dilshan",
-      "role": "Allrounder",
-      "imageURL":"http://cricapi.com/playerpic/48472.jpg",
-      "playerID":"48472",
-      "isBowler":true,
-      "isBatsman":true,
-      "isKeeper":true,
-      "isCaptain":false,
-      "isViceCaptain":false
-    },
-    {
-      "fullname": "Dinesh Chandimal",
-      "role": "Wicketkeeper batsman",
-      "imageURL":"http://cricapi.com/playerpic/300628.jpg",
-      "playerID":"300628",
-      "isBowler":false,
-      "isBatsman":true,
-      "isKeeper":true,
-      "isCaptain":false,
-      "isViceCaptain":false
-    },
-    {
-      "fullname": "Nuwan Kulasekara",
-      "role": "Bowler",
-      "imageURL":"http://cricapi.com/playerpic/49535.jpg",
-      "playerID":"49535",
-      "isBowler":true,
-      "isBatsman":false,
-      "isKeeper":false,
-      "isCaptain":false,
-      "isViceCaptain":false
     }
     
   ]
